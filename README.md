@@ -2,8 +2,8 @@
 
 ### Autonomous AI-Powered Blood Coordination Platform for Thalassemia Care
 
-> Built for **AI For Good 2.0 Hackathon** by Blend360 × Blood Warriors  
-> Team: SRM University-AP | Track: AI-Enabled Care Coordination
+> Built for **AI For Good 2.0 Hackathon** by Blend360 × Blood Warriors x HackCulture  
+> Team: Tsubasa | Track: AI-Enabled Care Coordination
 
 ---
 
