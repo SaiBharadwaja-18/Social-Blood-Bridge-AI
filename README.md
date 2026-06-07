@@ -4,6 +4,7 @@
 
 > Built for **AI For Good 2.0 Hackathon** by Blend360 × Blood Warriors x HackCulture  
 > Team: Tsubasa | Track: AI-Enabled Care Coordination
+> 🌐 **Live Demo:** https://main.d3adqr9k4z17ry.amplifyapp.com/
 
 ---
 
